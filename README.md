@@ -41,7 +41,14 @@ Em processos seletivos ou conversas técnicas, posso demonstrar arquitetura, dec
 - Desenvolvimento web e desktop
 - TypeScript, React, Vite e Tauri
 - Supabase e integrações de aplicações
-- Engenharia de IA e workflows assistidos
+- Engenharia de IA e workflows assistidos:
+- Python
+- Django
+- Langchain / Langgraph
+- PostgreSQL
+- Celery
+- RabbitMQ
+- Docker
 - Arquitetura, documentação e segurança
 - Automação, testes e preparação para deploy
 
